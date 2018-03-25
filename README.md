@@ -39,6 +39,8 @@ USO EN MacOS
 - Otorga permisos de ejecucion al script, situandote en la ruta donde se encuentra y ejecutando desde la terminal el comando:
 ``` chmod 777 smolpion.py ```
 
+- Ejecuta el script desde la Terminal con: ``` ./smolpion.py ```
+
 
 <img src="http://i63.tinypic.com/357mykn.png" />
 
